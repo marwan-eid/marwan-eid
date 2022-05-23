@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 📫 How to reach me **marwanadel99@aucegypt.edu**
+- 📫 Reach me @ **marwanadel99@aucegypt.edu**
 
-- 📄 Know about my experiences [shorturl.at/lsyP9](shorturl.at/lsyP9)
+- 📄 Know about my experiences [Marwan Eid Resume](https://shorturl.at/lsyP9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
