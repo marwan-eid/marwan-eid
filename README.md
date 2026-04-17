@@ -1,15 +1,72 @@
 <h1 align="center">Hi 👋, I'm Marwan Eid</h1>
-<h3 align="center">I am a Software Engineer @ <a href="https://www.valeo.com">Valeo</a>, a recent Computer Engineering graduate from <a href="https://www.aucegypt.edu/">American University in Cairo</a>, and a person who is passionate about coding and Software Development.</h3>
+<h3 align="center">
+  Software Engineer • Backend Engineer • Full-Stack Developer
+</h3>
 
-- 📫 Reach me @ **marwanadel99@aucegypt.edu**
-
-- 📄 Know about my experiences [Marwan Eid Resume](https://shorturl.at/lsyP9)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marwan-eid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan-eid" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/marwaneid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="marwaneid" height="30" width="40" /></a>
+<p align="center">
+  📞 +20 100 908 5668 ·
+  📧 marwan.eid1999@gmail.com ·
+  <a href="https://www.linkedin.com/in/marwan-eid" target="_blank">LinkedIn</a> ·
+  <a href="https://github.com/marwan-eid" target="_blank">GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  I build scalable backend systems, cloud platforms, and full-stack products.
+  My recent work includes Spring Boot microservices on AWS EKS, AWS Lambda, React, Next.js, Node.js, and automation pipelines with Docker, Helm, and GitHub Actions.
+</p>
+
+---
+
+### About me
+
+- Software Engineer at **Valeo**, working on cloud-native and full-stack systems
+- Experienced in **backend architecture, API development, DevOps, and deployment automation**
+- Built systems using **Spring Boot, ASP.NET Core, Node.js, Express.js, React, Next.js, AWS, Docker, Kubernetes, and Terraform**
+- Interested in **distributed systems, scalable APIs, cloud infrastructure, and performance engineering**
+- Recipient of the **Atef & Fofa Eltoukhy Family Endowed Scholarship** at AUC
+- Background in **Computer Engineering**, with minors in **Mathematics** and **Economics**
+
+---
+
+### What I’ve worked on
+
+- **Cloud foundation platform at Valeo**  
+  Designed and developed a large-scale real-time vehicle communication platform with **10 Spring Boot microservices** on **AWS EKS** and **25 AWS Lambda functions**.
+
+- **Performance improvements**  
+  Reduced initial response latency from **10 seconds to 2 seconds** using AWS Provisioned Concurrency, auto-scaling, and optimized warm-up strategies.
+
+- **Full-stack marketplace work**  
+  Built next-generation marketplace features using **React, Next.js, Node.js, and Express**.
+
+- **Legacy modernization**  
+  Stabilized a large C# codebase and helped migrate it toward **ASP.NET MVC REST APIs**, while improving frontend scalability with **React and Redux**.
+
+---
+
+### Selected Public Projects
+
+> *Note: Due to confidentiality, most of my professional work is not publicly shareable. Below are selected projects I can showcase.*
+
+- **High-Performance Chat System**  
+  Scalable chat system using Go + Ruby on Rails + Redis + MySQL + Elasticsearch  
+  → https://github.com/marwan-eid/chat-system
+
+- **The Right Losses for the Right Gains (Research)**  
+  Text-to-image generation architecture (arXiv paper)  
+  → https://arxiv.org/pdf/2312.10854
+
+- **Mini Egyptian IMDB**  
+  Web crawler + backend + web app for Egyptian movie data  
+  → https://github.com/marwan-eid/Web-Application-and-Database-System-Backend-for-Egyptian-movies
+
+---
+
+### Tech stack
+
+**Backend:** Spring Boot, ASP.NET Core, Node.js, Express.js, FastAPI, Flask, Ruby on Rails  
+**Cloud & DevOps:** AWS, Docker, Kubernetes, Helm, Terraform, GitHub Actions, Jenkins  
+**Languages:** C#, Python, Java, JavaScript, Go, Ruby, C++  
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, HTML, CSS  
+**Databases:** MySQL, PostgreSQL, SQLite, DynamoDB, MongoDB, Redis  
+**Other:** REST APIs, GraphQL, RabbitMQ, Prometheus, Grafana, Bash, Git
